@@ -1,0 +1,3 @@
+you should not repeat the functions. you need to complete them & you should not leave clutter in the functions.
+
+part1: hw 60
